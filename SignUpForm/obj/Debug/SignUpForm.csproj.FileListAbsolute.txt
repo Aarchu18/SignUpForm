@@ -1,0 +1,10 @@
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Form1.resources
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Properties.Resources.resources
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.GenerateResource.Cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe.config
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\SignUpForm\SignUpForm\bin\Debug\SignUpForm.pdb
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.exe
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.pdb
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csprojAssemblyReference.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.CoreCompileInputs.cache
